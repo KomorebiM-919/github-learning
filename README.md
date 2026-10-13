@@ -1,2 +1,17 @@
-# github-learning
-My first GitHub repository for learning Git and GitHub.
+# My GitHub Learning Journey
+
+## About This Project
+This is my first GitHub repository.
+I am learning how to use Git and GitHub.
+
+## My Learning Goals
+- Learn GitHub basics
+- Understand version control
+- Upload and manage code
+- Collaborate with teammates
+
+## Progress
+- [x] Create my first repository
+- [ ] Make my first manual commit
+- [ ] Upload a Python file
+- [ ] Learn Git commands
