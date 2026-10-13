@@ -1,5 +1,3 @@
 print("Hello, GitHub!")
-print("This is my first Python program.")
-
-name = "KomorebiM"
-print("Welcome,", name)
+print("This is my first local Git modification.")
+print("I am learning Git step by step!")
