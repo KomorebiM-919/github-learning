@@ -15,3 +15,8 @@ I am learning how to use Git and GitHub.
 - [ ] Make my first manual commit
 - [ ] Upload a Python file
 - [ ] Learn Git commands
+
+## Learning Git Pull
+
+Today I learned how to push local changes to GitHub.
+Next, I will learn how to pull remote changes to my computer.
