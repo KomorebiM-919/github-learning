@@ -1,4 +1,7 @@
 def greet(name):
     return f"Hello, {name}! Welcome to GitHub!"
 
-print(greet("KomorebiM-919"))
+def greet_team():
+    return greet("AI for Green Team")
+
+print(greet_team())
